@@ -1,0 +1,18 @@
+{
+    "vendas": true,
+    "acesstoken": "",
+    "pix": true,
+    "qrcode": true,
+    "pagarsite": true,
+    "semi": false,
+    "semiauto": {
+        "pix": "",
+        "qrcode": "",
+        "role": "",
+        "tipo": ""
+    },
+    "termos": "Sem Termos",
+    "channel_logs": "",
+    "role": "",
+    "category": ""
+}
