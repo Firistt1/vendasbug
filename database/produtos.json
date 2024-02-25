@@ -1,1 +1,17 @@
-{}
+{
+    "bot": {
+        "title": "Turbo | Produto",
+        "description": "``` Sem Descrição ```",
+        "nome": "bot",
+        "preco": 10,
+        "conta": [
+            "a",
+            "a",
+            "a",
+            "a",
+            "a",
+            "a"
+        ],
+        "banner": "remover"
+    }
+}

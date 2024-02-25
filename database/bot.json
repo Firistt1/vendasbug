@@ -1,18 +1,18 @@
 {
     "vendas": true,
     "acesstoken": "",
-    "pix": true,
-    "qrcode": true,
-    "pagarsite": true,
-    "semi": false,
+    "pix": false,
+    "qrcode": false,
+    "pagarsite": false,
+    "semi": true,
     "semiauto": {
-        "pix": "",
+        "pix": "pix@gpro.com",
         "qrcode": "",
-        "role": "",
-        "tipo": ""
+        "role": "1188999610241404938",
+        "tipo": "email"
     },
-    "termos": "Sem Termos",
-    "channel_logs": "",
-    "role": "",
-    "category": ""
+    "termos": "oain l cu",
+    "channel_logs": "1193583679948214334",
+    "role": "1193426471981690970",
+    "category": "1193583564252520618"
 }
